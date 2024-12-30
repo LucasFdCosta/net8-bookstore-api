@@ -5,7 +5,7 @@
 <img src=".github/images/api.png" alt=""/>
 
 ## Prerequisites
-- [.NET8]([https://nodejs.org/en/](https://dotnet.microsoft.com/en-us/download/dotnet/8.0))
+- [.NET8]([https://nodejs.org/en/](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 ## Installation
 
